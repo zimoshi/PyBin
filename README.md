@@ -12,7 +12,7 @@
 Currently, PyBin is not available on PyPI. You can clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/pybin.git
+git clone https://github.com/zimoshi/PyBin.git
 cd pybin
 pip install .
 ```
@@ -20,6 +20,10 @@ pip install .
 ## 🧑‍💻 Usage
 ```bash
 pybin -r 2 -f -j 4 myproject/
+```
+or:
+```bash
+python -m pybin.org -r 2 -f -j 4 myproject/
 ```
 
 ## 🤝 Contributing
