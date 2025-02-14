@@ -7,7 +7,7 @@ name = "pybin"
 version = "0.1.0"
 description = "A custom Python bytecode compiler producing .pybin files"
 authors = [
-    { name = "Your Name", email = "your.email@example.com" }
+    { name = "zimoshi", email = "153401092+zimoshi@users.noreply.github.com" }
 ]
 readme = "README.md"
 license = { text = "MIT" }

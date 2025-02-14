@@ -13,5 +13,6 @@ setup(
     python_requires=">=3.8",
     description="A custom Python bytecode compiler producing .pybin files",
     author="Your Name",
+    author_email="153401092+zimoshi@users.noreply.github.com", 
     license="MIT",
 )

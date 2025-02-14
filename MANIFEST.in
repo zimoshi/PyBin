@@ -1,0 +1,7 @@
+# MANIFEST.in
+global-exclude ._*
+global-exclude .DS_Store
+global-exclude __pycache__/*
+global-exclude *.pyc *.pyo
+exclude ?/*
+prune ?  # Exclude all directories named '?'
